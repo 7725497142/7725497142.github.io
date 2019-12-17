@@ -1,0 +1,8 @@
+User-agent: *
+Host: https://artformat-msk.ru
+Sitemap: https://artformat-msk.ru/sitemap.xml
+Disallow: /js
+Disallow: /css
+Disallow: /fonts
+Disallow: /scss
+Disallow: /img
